@@ -18,7 +18,7 @@ class Navigation extends Component {
           </button>
           <div class="collapse navbar-collapse" id="navBarToggle">
             <a class="navbar-brand" href="/">
-              Tweet Bridge
+              Navigation
             </a>
             <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
               <li class="nav-item active">

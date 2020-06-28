@@ -4,8 +4,8 @@ class NavigationTwo extends Component {
   render() {
     return (
       <nav class="navbar navbar-expand-md navbar-light bg-light">
-        <a class="navbar-brand" href="#">
-          Tweet Bridge
+        <a class="navbar-brand" href="/">
+          NavigationTwo
         </a>
         <button
           class="navbar-toggler"
