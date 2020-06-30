@@ -7,7 +7,7 @@ class NavigationThree extends Component {
     return (
       <Navbar bg="dark" variant="dark" expand="md">
         <img id="twitter-logo" src={TwitterLogo} alt="Twitter Logo"></img>
-        <Navbar.Brand href="/">NavigationThree</Navbar.Brand>
+        <Navbar.Brand href="/">Navigation3</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto">

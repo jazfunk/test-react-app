@@ -5,7 +5,7 @@ class NavigationTwo extends Component {
     return (
       <nav className="navbar navbar-expand-md navbar-light bg-light">
         <a className="navbar-brand" href="/">
-          NavigationTwo
+          Navigation2
         </a>
         <button
           className="navbar-toggler"
